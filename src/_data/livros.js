@@ -1,44 +1,44 @@
 export const livros = [
     {
-      id: 1,
-      title: "Eu, robo",
-      author: "Asimov",
-      price: 50.9,
-      cover: "https://m.media-amazon.com/images/I/414QJOKvD+L._SX328_BO1,204,203,200_.jpg"
+      id: 1, 
+      title: "O senhor dos aneis",
+      author: "J. R. R. Tolkien",
+      price: 39.9,
+      cover: 'https://cdn.shopify.com/s/files/1/0529/5125/3158/products/9786555113631.jpg?v=1678780395'
     },
     {
-      id: 2,
-      title: "1984",
-      author: "Powell",
-      price: 42.0,
-      cover: "https://m.media-amazon.com/images/I/715OyML-v9L.jpg"
-    },
-    {
-      id: 3,
-      title: "O cavaleiro preso na armadura",
-      author: "Fisher",
-      price: 24.5,
-      cover: "https://m.media-amazon.com/images/I/91of8o2YfpL.jpg"
-    },
-    {
-      id: 4,
-      title: "O senhor dos aneis: A sociedade do anel",
-      author: "Tolkien",
-      price: 36.9,
-      cover: "https://cdn.shopify.com/s/files/1/0529/5125/3158/products/9786555113631.jpg?v=1678780395"
-    },
-    {
-      id: 5,
-      title: "Pequeno principe ",
-      author: "Saint-Exupéry",
+      id: 2, 
+      title: "A seleção",
+      author: "Kiera Cass",
       price: 29.9,
-      cover: "https://m.media-amazon.com/images/I/81fXBeYYxpL.jpg"
+      cover: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyVFLdme6HRkJQAz_Je7glsfaXJTW1Z8QmdQ&usqp=CAU'
     },
     {
-      id: 6,
-      title: "Fundacao",
-      author: "Asimov",
-      price: 49.9,
-      cover: "https://m.media-amazon.com/images/I/712vJIziMgL.jpg"
-    }
+      id: 3, 
+      title: "E assim que acaba",
+      author: "Collen hover",
+      price: 29.9,
+      cover: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFjIXNpxpmqUGEK4gZY2GnpN_BcW6AbChygw&usqp=CAU'
+    },
+    {
+      id: 4, 
+      title: "E assim que comeca",
+      author: "Collen hover",
+      price: 29.9,
+      cover: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyVFLdme6HRkJQAz_Je7glsfaXJTW1Z8QmdQ&usqp=CAU'
+    },
+    {
+      id: 5, 
+      title: "Principe Cruel",
+      author: "Hollin Black",
+      price: 29.9,
+      cover: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyVFLdme6HRkJQAz_Je7glsfaXJTW1Z8QmdQ&usqp=CAU'
+    },
+    {
+      id: 6, 
+      title: "Verity",
+      author: "Collen Hover",
+      price: 29.9,
+      cover: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyVFLdme6HRkJQAz_Je7glsfaXJTW1Z8QmdQ&usqp=CAU'
+    },
   ]
